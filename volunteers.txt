@@ -4,20 +4,20 @@ davidlauran@gmail.com
 equality
 equity
 defavorised
-food for all
+Food for All
 
 Andreea Marin
 andrea@yahoo.com
 2
 green
 sustainability
-forests
+Full Forests
 
 Radu Dan
 raducu@gmail.com
 1
 equity
-food for all
+Food for All
 
 Ringo Starkley
 ringo@yahoo.ro
@@ -34,7 +34,7 @@ foodrightfighter@gmail.ro
 food
 equity
 defavorised
-food for all
+Food for All
 
 Ion Voicu
 ioan@gmail.com
@@ -43,7 +43,7 @@ education
 children
 right
 equality
-forests
+Full Forests
 
 Ioana Voica
 ioana@gmaila.com
@@ -51,14 +51,14 @@ ioana@gmaila.com
 equality
 education
 children
-education
+Education for All
 
 Jay Smith
 jaysm@stud.ubbcluj.ro
 2
 singing
 education
-education
+Education for All
 
 Jane Educate
 janeEd@yahoo.com
@@ -66,7 +66,7 @@ janeEd@yahoo.com
 education
 children
 play
-education
+Education for All
 
 Joe Educate
 joe_edu@gmail.com
@@ -74,13 +74,13 @@ joe_edu@gmail.com
 playing
 laughing
 reading
-food for all
+Food for All
 
 Josh Educator
 josh123@gmail.ro
 1
 children
-education
+Education for All
 
 Cristian Puiu
 cristi_puiu12@gmail.ro
@@ -88,7 +88,7 @@ cristi_puiu12@gmail.ro
 anticorruption
 equity
 movies
-education
+Education for All
 
 Andrei Ren
 andiren@gmail.ro
@@ -96,7 +96,7 @@ andiren@gmail.ro
 computers
 maths
 tv
-food for all
+Food for All
 
 Cristi Stoica
 cristiano@gmail.com
@@ -104,30 +104,30 @@ cristiano@gmail.com
 ai
 art
 physiotherapy
-forests
+Full Forests
 
 David
 Andrew
 2
 music
 dancing
-food for all
+Food for All
 
 Radu Peter
 radupeter@gmail.com
 2
 math
 gym
-music writers union
+Music Writers Union
 
-Child Fighter
-childfight@gmail.com
+Forchildren Filter
+fightforchildren@gmail.com
 4
 children
 education
 equity
 fight
-music writers union
+Music Writers Union
 
 David Lauran
 davelauren@gmail.com
@@ -135,14 +135,14 @@ davelauren@gmail.com
 music
 music
 music
-music writers union
+Music Writers Union
 
 Cristian Pui
 cristi_puiu12@gmail.ro
 2
 da
 ceva
-remove chemistry from highschools
+Remove Chemistry from Highschools
 
 John Cena
 cena@wwe.com

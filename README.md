@@ -1,2 +1,2 @@
-# volunteer-organization
-App which helps managing a volunteer organization
+# Volunteer Organization Management App
+The program allows managing **volunteers** and **departments**, through a **GUI**.
